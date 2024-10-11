@@ -3,11 +3,15 @@
 
 #include "CPPSelectableUnit.h"
 
+#include "Components/CapsuleComponent.h"
+
 // Sets default values
-ACPPSelectableUnit::ACPPSelectableUnit():
+ACPPSelectableUnit::ACPPSelectableUnit()
 {
 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
 }
 
 // Called when the game starts or when spawned

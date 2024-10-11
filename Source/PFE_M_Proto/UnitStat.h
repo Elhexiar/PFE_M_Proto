@@ -31,5 +31,14 @@ struct FUnitStat
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Stats", meta = (displayName = "AttackRange"))
 	float AttackRange;
 
-
+	FUnitStat() :
+		MaxHP(100.0f),
+		Speed(500.0f),
+		AttackDamage(5.0f),
+		Armor(0.0f),
+		AttackSpeed(1.0f),
+		AttackRange(200.0f)
+	{
+	}
+	
 };
