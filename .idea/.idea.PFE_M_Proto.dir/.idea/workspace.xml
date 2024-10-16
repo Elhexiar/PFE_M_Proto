@@ -10,26 +10,16 @@
     <list default="true" id="0fdb46c2-7f08-483e-bbcb-6be9ed600889" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PFE_M_Proto.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PFE_M_Proto.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M01/BP_M01_RTSControler.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MIRIEL/Proto_M01/BP_M01_RTSControler.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_BG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_BG.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Border.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Border.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_CardCHaracter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_CardCHaracter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Metallic_Border.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Metallic_Border.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Outline.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Outline.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_OutlineV2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_OutlineV2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Shadow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Shadow.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Text.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/T_Text.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/UV_BG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/UV_BG.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/UV_COst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V1/UV_COst.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Background_v2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Background_v2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Character_v2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Character_v2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Outline_v2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_Outline_v2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_TextSpace.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V2/Textures/Illustration/T_TextSpace.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/BP_CardV3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/BP_CardV3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/Card_005_Border.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/Card_005_Border.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/Card_005_Cost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Card/Card_V3/Card_005_Cost.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Materials/Topography/T_TopgraphyBackground.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Materials/Topography/T_TopgraphyBackground.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PIERRE/Materials/Topography/smooth_rock_render2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PIERRE/Materials/Topography/smooth_rock_render2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/TestMap_M01/C/JK/AL211CC7OSEZYUZYCVM1LL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/TestMap_M01/C/JK/AL211CC7OSEZYUZYCVM1LL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Cards/BP_M02_ActiveCard.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Cards/BP_M02_Card.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Cards/BP_M02_Deck.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Cards/BP_M02_Deck.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Input/IC_M02_InputContext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Input/IC_M02_InputContext.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Player/BP_M02_RTSControler.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Player/BP_M02_RTSControler.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Player/BP_M02_RTSPlayerCharacter2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Player/BP_M02_RTSPlayerCharacter2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/Player/CBP_M02_CardManager.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MIRIEL/Proto_M02/WBPE_EditeurControler.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PFE_M_Proto/CppCard.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PFE_M_Proto/CppCard.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +210,9 @@
       <workItem from="1728553835140" duration="20000" />
       <workItem from="1728553880693" duration="5486000" />
       <workItem from="1728629419018" duration="8422000" />
+      <workItem from="1728985794254" duration="896000" />
+      <workItem from="1728988441191" duration="648000" />
+      <workItem from="1729066710182" duration="3598000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,12 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "CppCard.h"
+#include "Card.h"
 
-FCppCard::FCppCard()
+UCard::UCard()
 {
 }
 
-FCppCard::~FCppCard()
+UCard::~UCard()
 {
 }
