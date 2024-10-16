@@ -9,4 +9,6 @@ UCard::UCard()
 
 UCard::~UCard()
 {
+	
+	
 }

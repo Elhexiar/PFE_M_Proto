@@ -18,4 +18,19 @@ class PFE_M_PROTO_API UCard : public UObject
 public:
 	UCard();
 	virtual ~UCard() override;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
+	FString Name;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
+	int32 Cost;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
+	FText Description;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
+	AActor* InHandActor;
+
+	
+	
 };
