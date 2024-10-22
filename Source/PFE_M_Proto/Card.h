@@ -29,7 +29,7 @@ public:
 	FText Description;
 
 	UPROPERTY(EditAnywhere,BlueprintReadWrite)
-	AActor* InHandActor;
+	TSubclassOf<AActor> InHandActorClass;
 
 	
 	
